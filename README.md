@@ -1,1 +1,2 @@
 # activity-recognition
+Human Activity Recognition(HAR) is classifying activity of a person using responsive sensors that are affected from human movement. Both users and capabilities(sensors) of smartphones increase and users usually carry their smartphone with them. These facts makes HAR more important and popular. This work focuses on recognition of human activity using smartphone sensors using different machine learning classification approaches. Data retrieved from smart phones' accelerometer and gyroscope sensors are classified in order to recognise human activity.
